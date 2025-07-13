@@ -1,8 +1,8 @@
 # Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshyZhou/FPro)
-[![GitHub Stars](https://img.shields.io/github/stars/joshyZhou/FPro?style=social)](https://github.com/Zheng-MJ/SMFANet) <br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshyZhou/HINT)
+[![GitHub Stars](https://img.shields.io/github/stars/joshyZhou/HINT?style=social)](https://github.com/joshyZhou/HINT) <br>
 
 [Shihao Zhou](https://joshyzhou.github.io/), [Dayu Li](https://github.com/nkldy22), [Jinshan Pan](https://jspan.github.io/), [Juncheng Zhou](https://github.com/ZhouJunCheng99), [Jinglei Shi](https://jingleishi.github.io/) and [Jufeng Yang](https://cv.nankai.edu.cn/)
 
