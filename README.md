@@ -1,6 +1,6 @@
 # Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration
 
-
+[![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demos-blue)](https://huggingface.co/spaces/yssszzzzzzzzy/HINT)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshyZhou/HINT)
 [![GitHub Stars](https://img.shields.io/github/stars/joshyZhou/HINT?style=social)](https://github.com/joshyZhou/HINT) <br>
 
