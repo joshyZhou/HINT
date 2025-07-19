@@ -7,6 +7,7 @@
 [Shihao Zhou](https://joshyzhou.github.io/), [Dayu Li](https://github.com/nkldy22), [Jinshan Pan](https://jspan.github.io/), [Juncheng Zhou](https://github.com/ZhouJunCheng99), [Jinglei Shi](https://jingleishi.github.io/) and [Jufeng Yang](https://cv.nankai.edu.cn/)
 
 #### News
+- **Jul 19, 2025:** [Hugging Face Demo](https://huggingface.co/spaces/yssszzzzzzzzy/HINT) is available now, thanks contribution of [Sen](https://github.com/yss730)
 - **Jun 26, 2025:** HINT has been accepted to ICCV 2025 :tada: 
 <hr />
 
