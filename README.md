@@ -35,12 +35,12 @@ To train HINT on snow100k, you can run:
 ### Enhancement 
 To train HINT on LOL_v2_real, you can run:
 ```sh
-./train.sh Demoiring/Options/HINT_LOL_v2_real.yml
+./train.sh Enhancement/Options/HINT_LOL_v2_real.yml
 ```
 
 To train HINT on LOL_v2_synthetic, you can run:
 ```sh
-./train.sh Demoiring/Options/HINT_LOL_v2_synthetic.yml
+./train.sh Enhancement/Options/HINT_LOL_v2_synthetic.yml
 ```
 
 ## Evaluation
